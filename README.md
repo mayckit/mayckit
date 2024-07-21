@@ -29,7 +29,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
-<img src="https://i.pinimg.com/originals/cd/8a/2d/cd8a2df3534127f660734a9c2053b7b3.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://i.pinimg.com/originals/a4/ff/d0/a4ffd06c5e194bb13462591ba3992615.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Studying in this moment:
 
@@ -70,7 +70,6 @@
     Me chamo Michael Pires e sou estudante de Sistemas de Informação na PUC Minas, uma jornada que me levou a explorar profundamente o universo da tecnologia e da programação. 
     Desde 2020, tenho me empenhado na busca por conhecimentos que me levariam a ser um desenvolvedor, uma trajetória que teve início com a familiarização com as linguagens HTML, CSS e JavaScript. 
     Durante minha jornada acadêmica, mergulhei mais fundo no estudo da linguagem C#, o que despertou em mim um entusiasmo genuíno por sua potência e versatilidade.
-
     Desde pequeno, possuo uma habilidade natural para interagir e me comunicar com as pessoas, uma qualidade que valorizo tanto para minha carreira quanto para minha vida pessoal. 
     Além disso, sou um ávido adepto do desenvolvimento pessoal, sempre buscando oportunidades para aprender e crescer.
 </div>
