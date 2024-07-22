@@ -63,7 +63,7 @@
 -----
 <div>
 <details>
-<summary><img height="20" alt="GIF" src="imgs/animatedshadow.gif"/> Sobre mim:</summary>
+<summary><img height="20" alt="GIF" src="https://i.pinimg.com/originals/9f/b1/25/9fb125f1fedc8cc62ab5b20699ebd87d.gif"/> Sobre mim:</summary>
 </details>
 </div>
 <div align="justify">
