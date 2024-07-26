@@ -2,7 +2,7 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center">Eu ❤️ tecnologia. <br><br> <p align="left">Olá! Sou um estudante de Sistemas de Informação na PUC Minas, onde tenho explorado as complexidades e maravilhas deste campo dinâmico em constante evolução. Sou movido pela paixão em aprender, e com ela mantenho minha busca contínua por novos desafios. Com uma mente inquisitiva e ávida por conhecimento, estou pronto para enfrentar os desafios do mundo da tecnologia e crescer profissionalmente.</p>
+<p align="left">Olá! Sou um estudante de Sistemas de Informação na PUC Minas, onde tenho explorado as complexidades e maravilhas deste campo dinâmico em constante evolução. Sou movido pela paixão em aprender, e com ela mantenho minha busca contínua por novos desafios. Com uma mente inquisitiva e ávida por conhecimento, estou pronto para enfrentar os desafios do mundo da tecnologia e crescer profissionalmente.</p>
 
 
 
