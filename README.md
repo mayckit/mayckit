@@ -67,7 +67,6 @@
 </div>
 <div align="justify">
     
-Memória atualizada
 Meu nome é Michael Pires, e sou estudante de Sistemas de Informação na PUC Minas, onde venho me aprofundando nas áreas de tecnologia e programação. Desde 2021, tenho me dedicado ao aprendizado de linguagens como HTML, CSS e JavaScript, em busca do desenvolvimento de minhas habilidades como programador. Ao longo da minha trajetória acadêmica, C# se destacou como uma linguagem que realmente despertou meu interesse, devido à sua flexibilidade e capacidade. Sou apaixonado por meu desenvolvimento pessoal, sempre procurando maneiras de aprender e evoluir.
 </div>
 
