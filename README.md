@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="imgs/banner-gif.gif" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="imgs/banner_github.png" />
 &nbsp;&nbsp;&nbsp;
 
 
