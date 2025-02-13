@@ -12,8 +12,8 @@
  </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=mayckit&theme=tokyonight&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=mayckit&show_icons=true&theme=tokyonight&layout=compact" />
+<img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=mayckit&theme=tokyonight&mode=weekly" />
+<img width=50% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=mayckit&show_icons=true&theme=tokyonight&layout=compact" />
  </div>
  
  &nbsp;
@@ -31,7 +31,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
-<img src="imgs/animatedphantom.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="imgs/Zekrom.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Studying in this moment:
 
