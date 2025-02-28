@@ -1,5 +1,4 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="imgs/banner_github.png" />
-&nbsp;&nbsp;&nbsp;
+
 
 
 <p align="left">Olá! Como estudante de Sistemas de Informação na PUC Minas, estou imerso nas constantes inovações e desafios desse campo em constante mudança. Movido por uma curiosidade insaciável, busco continuamente novos aprendizados e desafios, determinado a evoluir e me destacar no mundo da tecnologia.</p>
