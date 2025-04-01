@@ -10,10 +10,10 @@
 
  </p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=mayckit&theme=tokyonight&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=mayckit&show_icons=true&theme=tokyonight&layout=compact" />
- </div>
+<div align="center" style="margin-bottom:100px">
+    <img width="55%" src="https://streak-stats.demolab.com?user=mayckit&theme=tokyonight&mode=weekly" />
+    <img width="40%" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=mayckit&show_icons=true&theme=tokyonight&layout=compact" />
+</div>
  
  &nbsp;
  &nbsp;
