@@ -1,7 +1,7 @@
 
 
 
-<p align="left">Olá! Sou Michael Pires, estudante de Sistemas de Informação na PUC Minas, apaixonado por tecnologia. Tenho experiência prática em C#, JavaScript, Node.js, Python, React e MySQL, e, além de desenvolvimento, tenho bastante interesse em Cibersegurança, Redes e Análise de Dados. Fique à vontade para explorar meus projetos e entrar em contato caso queira trocar ideias!</p>
+<p align="left">Olá! Sou estudante de Sistemas de Informação na PUC Minas, apaixonado por tecnologia. Tenho experiência prática em C#, JavaScript, Node.js, Python, React e MySQL, e, além de desenvolvimento, tenho bastante interesse em Cibersegurança, Redes e Análise de Dados. Fique à vontade para explorar meus projetos e entrar em contato caso queira trocar ideias!</p>
 
 
 
