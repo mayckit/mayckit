@@ -1,8 +1,7 @@
 
 
 
-<p align="left">Olá! Como estudante de Sistemas de Informação na PUC Minas, estou imerso nas constantes inovações e desafios desse campo em constante mudança. Movido por uma curiosidade insaciável, busco continuamente novos aprendizados e desafios, determinado a evoluir e me destacar no mundo da tecnologia.</p>
-
+<p align="left">Olá! Sou Michael Pires, estudante de Sistemas de Informação na PUC Minas, apaixonado por tecnologia. Tenho experiência em C#, JavaScript, Node.js, Python, React e MySQL, e interesse em Cibersegurança, Redes e Análise de Dados. Estou sempre em busca de novos aprendizados e desafios para evoluir como profissional.</p>
 
 
 
@@ -88,7 +87,7 @@
 </div>
 <div align="justify">
     
-Meu nome é Michael Pires, e sou estudante de Sistemas de Informação na PUC Minas, onde venho me aprofundando nas áreas de tecnologia e programação. Desde 2021, tenho me dedicado ao aprendizado de linguagens como HTML, CSS e JavaScript, em busca do desenvolvimento de minhas habilidades como programador. Ao longo da minha trajetória acadêmica, C# se destacou como uma linguagem que realmente despertou meu interesse, devido à sua flexibilidade e capacidade. Sou apaixonado por meu desenvolvimento pessoal, sempre procurando maneiras de aprender e evoluir.
+Meu nome é Michael Pires e sou estudante de Sistemas de Informação na PUC Minas, onde me aprofundo nas áreas de tecnologia e programação. Desde 2021, venho desenvolvendo habilidades em HTML, CSS, JavaScript, C# e Python, com experiência prática em Node.js, React, MySQL e APIs RESTful. Ao longo da minha trajetória acadêmica, descobri uma paixão por Cibersegurança e Redes de Computadores, o que também despertou meu interesse por análise de dados e BI. Atualmente, busco constantemente novos aprendizados e desafios, construindo projetos que refletem minha evolução e curiosidade tecnológica, com foco em aplicar meus conhecimentos de forma prática e significativa.
 </div>
 
 
