@@ -29,6 +29,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![APIsRestfull](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
 <img src="imgs/animatedphantom.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -36,19 +37,37 @@
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![Prisma](https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Azure](https://img.shields.io/badge/AWS-ff9900?style=for-the-badge&logo=azure&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-ff9900?style=for-the-badge&logo=azure&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=prisma&logoColor=white)&nbsp;
 
 #### Databases:
 
+**Bancos de dados:**
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Postgree](https://img.shields.io/badge/Postgre-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)&nbsp;
+
+**Data & BI:**  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)&nbsp;
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)&nbsp;
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)&nbsp;
+
+#### Networking & Security:
+
+![Packet-Tracer](https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)&nbsp;
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)&nbsp;
+![Zabbix](https://img.shields.io/badge/Zabbix-B51B1B?style=for-the-badge&logo=zabbix&logoColor=white)&nbsp;
+![Kali-Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)&nbsp;
+![TCP/IP](https://img.shields.io/badge/TCP/IP-2E7D32?style=for-the-badge&logo=tcp&logoColor=white)&nbsp;
 
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Packet-Tracer](https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![Trello](https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
