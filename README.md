@@ -39,7 +39,7 @@
 ![Prisma](https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-ff9900?style=for-the-badge&logo=azure&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=prisma&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 
 #### Databases:
 
