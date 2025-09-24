@@ -7,7 +7,7 @@
 
 
 
- </p>&nbsp;
+ &nbsp;
 
 <div align="center" style="margin-bottom:100px">
     <img width="55%" src="https://streak-stats.demolab.com?user=mayckit&theme=tokyonight&mode=weekly" />
