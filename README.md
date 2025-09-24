@@ -10,7 +10,7 @@
  &nbsp;
 
 <div align="center" style="margin-bottom:100px">
-    <img width="55%" src="https://github-readme-streak-stats.vercel.app/?user=mayckit&theme=tokyonight&mode=weekly" />
+    <img width="55%" src="https://github-readme-streak-stats-eight.vercel.app?user=mayckit&theme=tokyonight&mode=weekly" />
     <img width="40%" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=mayckit&show_icons=true&theme=tokyonight&layout=compact" />
 </div>
  
